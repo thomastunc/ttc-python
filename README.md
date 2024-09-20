@@ -28,7 +28,7 @@ Volg de onderstaande stappen om Anaconda op je computer te installeren:
 1. **Download Anaconda:**
    - Ga naar de officiële website van Anaconda: [https://www.anaconda.com/products/distribution](https://www.anaconda.com/products/distribution)
    - Klik op de downloadknop en kies de versie die overeenkomt met jouw besturingssysteem (Windows, macOS, of Linux).
-   - Kies de versie voor Python 3.x (meestal is dit de nieuwste versie).
+   - Kies de versie voor de nieuwste Python
 
 2. **Installatie (Windows/MacOS/Linux):**
    - Open de gedownloade installer.
